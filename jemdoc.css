@@ -365,3 +365,7 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.boxed {
+  border: 1px solid green ;
+}
