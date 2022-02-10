@@ -24,9 +24,13 @@ My current PhD work areas include:
 I easily get interested in broad scientific areas. Thus I am also interested in *Computational Microscopy*, *Optimization Methods*, *Optimal Transport*, *Deep Learning for Combinatorial Optimization* etc.
 
 == News
-- Awarded 3rd place prize in [https://research.gatech.edu/2022-suddath-award-winners 2022 Suddath Awards] at Georgia Tech
-- Presented three talks at [https://plan.core-apps.com/aiche2021/customScreen/aboutShow AICHE 2021]
-- Presented one Talk and one poster at [https://microtas2021.org/ MicroTas 2021]
+- +\[Jan 2022\]+ Awarded 3rd place prize in [https://research.gatech.edu/2022-suddath-award-winners 2022 Suddath Awards] at Georgia Tech.
+- +\[Jan 2022\]+ [https://github.com/shiveshc/whole-brain_DeepDenoising/ Code] released for Whole-Brain Deep Denoising paper.
+- +\[Nov 2021\]+ Presented 3 talks at [https://plan.core-apps.com/aiche2021/customScreen/aboutShow AICHE 2021]
+- +\[Jul 2021\]+ Presented 1 talk and 1 poster at [https://microtas2021.org/ MicroTas 2021]
+- +\[Jan 2021\]+ [https://elifesciences.org/articles/60321 Paper] on automatically identifying cells in C. elegans whole-brain images is accepted in eLife.
+-- Featured in [https://www.eurekalert.org/pub_releases/2021-03/giot-ict031721.php /Eureka Alert/], [https://medicalxpress.com/visualstories/2021-03-cells-healthy-diseased-behavior.amp /Medical Express/], [https://neurosciencenews.com/cell-ai-neurodegeneration-18078/ /Neuroscience News/]
+- +\[Mar 2020\]+ Our [https://www.biorxiv.org/content/10.1101/2020.03.10.986356v1.full paper] on automatically identifying cells in C. elegans whole-brain images is released on biorxiv. [https://github.com/shiveshc/CRF_Cell_ID Code] [https://github.com/shiveshc/CRF_Cell_ID/tree/master/Datasets Datasets]
 
 == Bio
 I was trained as a Chemical Engineer at IIT Kanpur where I finished BS-MS dual degree in 2013. There I worked with [https://www.iitk.ac.in/che/faculty/bhattacharya_pk/people.htm Prof. P. K. Bhattacharya] on computational modelling of water management in PEM fuel cells and effects of Schroeder's Paradox. After graduating, I worked with a Management Consulting firm developing data-driven solutions for international firms like Wolters Kluwers, Assurant, T-Mobile. Since 2016 I am a PhD Candidate at Georgia Tech, advised by Prof. Hang Lu, where I work on developing tools for fast and easy processing of whole-brain functional imaging data.
